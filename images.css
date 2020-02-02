@@ -1,0 +1,30 @@
+#logo img {
+  width: 60%;
+  height: 60%;
+}
+
+#image {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  left: 20%;
+  background-image: url(../pic/wojtek.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#eng img {
+  width: 15%;
+  height: 5%;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+}
+
+#pl img {
+  width: 15%;
+  height: 5%;
+  position: absolute;
+  top: 25%;
+  left: 70%;
+}
